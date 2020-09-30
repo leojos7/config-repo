@@ -3,7 +3,7 @@ app:
   description: Welcome to ${app.name}
 
 my:
-  greeting: Hello World from config-client.yml
+  greeting: Hello World from config-client.yml test test
   list:
     values:
       One, Two, Three
