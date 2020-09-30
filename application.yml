@@ -3,7 +3,7 @@ app:
   description: Welcome to ${app.name}
 
 my:
-  greeting: Hello World Leo
+  greeting: Hello World Leo 1
   list:
     values:
       One, Two, Three
