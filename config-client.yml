@@ -8,4 +8,7 @@ my:
     values:
       One, Two, Three
       
+server:
+  port: 9085
+      
 
