@@ -15,5 +15,5 @@ bacnet:
             'objectType': '0'
             'feildid': 1004
             'variableType': 'Double'
-            'propertyId': presentvalue
+            'propertyId': presentvalu
             'mdspDataPoint': 1545284611108
