@@ -1,0 +1,19 @@
+bacnet:
+  serverIpAddress: "10.232.2.170"
+  timeout: 1000
+  storageLocation: "BacnetDataPoints"
+  retryCount: 3
+  localDeviceId: 20056
+  localDevicePort: 47896
+  roomBacnetServerConfigs:
+    roomNameList:
+      - 'roomName': 'Expo_Env_Bacnet2_Wing_A_IT_Room'
+        'deviceId': '201'
+        'devicePort': '47808'
+        'variableList':
+          - 'name': 'Temperature'
+            'objectType': '0'
+            'feildid': 1004
+            'variableType': 'Double'
+            'propertyId': presentvalue
+            'mdspDataPoint': 1545284611108
